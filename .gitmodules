@@ -1,3 +1,11 @@
 [submodule "base"]
 	path = base
 	url = ../base-port-openbsd
+[submodule "common-port"]
+	path = common-port
+	url = ../common-port
+	branch = main
+[submodule "common"]
+	path = common
+	url = ../common-port
+	branch = main
